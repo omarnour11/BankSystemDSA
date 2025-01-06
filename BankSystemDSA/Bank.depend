@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1733101917 source:e:\c++\omarnour\moar\pank\main.cpp
+	<iostream>
+	"clsHolderAccount.h"
+	"ClsBankManageSystem.h"
+	"clsBranches.h"
+
+1733098313 e:\c++\omarnour\moar\pank\include\clsholderaccount.h
+	<iostream>
+
+1733101455 e:\c++\omarnour\moar\pank\include\clsbankmanagesystem.h
+	<iostream>
+	"clsHolderAccount.h"
+	<fstream>
+	<string>
+	<iomanip>
+	"clsBranches.h"
+
+1733098223 e:\c++\omarnour\moar\pank\include\clsbranches.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"ClsBankManageSystem.h"
+
+1733102137 source:e:\bankmanagementsystemdsa-main\bank\main.cpp
+	<iostream>
+	"clsHolderAccount.h"
+	"ClsBankManageSystem.h"
+	"clsBranches.h"
+
+1733158725 e:\bankmanagementsystemdsa-main\bank\include\clsholderaccount.h
+	<iostream>
+
+1733355905 e:\bankmanagementsystemdsa-main\bank\include\clsbankmanagesystem.h
+	<iostream>
+	"clsHolderAccount.h"
+	<fstream>
+	<string>
+	<iomanip>
+	"clsBranches.h"
+	<cstdlib>
+	<algorithm>
+
+1733354930 e:\bankmanagementsystemdsa-main\bank\include\clsbranches.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"ClsBankManageSystem.h"
+
+1733133627 e:\bankmanagementsystemdsa-main\bank\include\clsbranchesmangement.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"ClsBankManageSystem.h"
+
+1733134924 e:\bankmanagementsystemdsa-main\bank\include\printscreenfiles.h
+	<iostream>
+	"clsHolderAccount.h"
+	<fstream>
+	<string>
+	<iomanip>
+	"clsBranches.h"
+	"PrintScreenFiles.h"
+	"ClsBankManageSystem.h"
+
