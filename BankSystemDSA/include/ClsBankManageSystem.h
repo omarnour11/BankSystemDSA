@@ -41,7 +41,6 @@ public:
         Branches.AddBranch(branch4);
 
 
-       //LoadDataToLinkedList(); ///ليه بقت مشكلة ؟
 
         Menu();
 
